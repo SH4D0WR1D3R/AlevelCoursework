@@ -1,0 +1,6 @@
+1. Boolean and Logic Gates
+2. The Computer System's Architecture
+3. Embedded Systems
+4. Memory
+5. Secondary Storage
+6. Fetch-Execute Cycle

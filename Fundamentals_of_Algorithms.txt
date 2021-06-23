@@ -1,0 +1,6 @@
+1. Computational Thinking
+2. Using Flowcharts
+3. Using Pseudo-Code
+4. Algorithms in Mathematics
+5. Understanding Search and Sort Algorithms
+6. Algorithm Efficiency

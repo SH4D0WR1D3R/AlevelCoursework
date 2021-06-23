@@ -1,0 +1,12 @@
+1. Variables and Constants
+2. Programming in Code
+3. Looping and Selection
+4. Comparing Pseudo-Code, Flowcharts and Python
+5. Loops and Mathematical Procedures
+6. Subroutines
+7. Structuring Programs in a Modular Way
+8. The Languages Computers Actually Use
+9. Data Types
+10. Data Structures
+11. Data Validation and Authentication
+12. Reading and Writing to a Text File

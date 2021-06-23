@@ -1,0 +1,8 @@
+1. Fundamentals of Algorithms
+2. Programming
+3. Fundamentals of Data Representation
+4. Computer Systems
+5. Fundamentals of Computer Networks
+6. Fundamentals of Cyber Security
+7. Ethics
+8. Software Development

@@ -1,0 +1,45 @@
+1. Fundamentals of Algorithms
+	a. Computational Thinking
+	b. Using Flowcharts
+	c. Using Pseudo-Code
+	d. Algorithms in Mathematics
+	e. Understanding Search and Sort Algorithms
+	f. Algorithm Efficiency
+2. Programming
+	a. Variables and Constants
+	b. Programming in Code
+	c. Looping and Selection
+	d. Comparing Pseudo-Code, Flowcharts and Python
+	e. Loops and Mathematical Procedures
+	f. Subroutines
+	g. Structuring Programs in a Modular Way
+	h. The Languages Computers Actually Use
+	i. Data Types
+	j. Data Structures
+	k. Data Validation and Authentication
+	l. Reading and Writing to a Text File
+3. Fundamentals of Data Representation
+	a. Binary and Hexadecimal Numbers
+	b. Computing and Data Representation
+	c. Data Size, Storage and Compression
+	d. Trees and Huffman Coding
+4. Computer Systems
+	a. Boolean and Logic Gates
+	b. The Computer System's Architecture
+	c. Embedded Systems
+	d. Memory
+	e. Secondary Storage
+	f. Fetch-Execute Cycle
+5. Fundamentals of Computer Networks
+	a. Networks
+	b. Network Data Transfer
+6. Fundamentals of Cyber Security
+	a. Encryption
+	b. System Security
+	c. Social Engineering and Cyber Security
+7. Ethical, Legal and Environmental Impacts of Digital Technology on Wider Society, Including Issues of Privacy
+	a. Ethics, the Law and the Environment
+8. Aspects of Software Development
+	a. Software
+	b. Aspects of Software Development
+	c. Testing your Code

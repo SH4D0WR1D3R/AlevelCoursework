@@ -1,0 +1,7 @@
+1Q. What is 1+1?
+2Q. What is an algorithm?
+
+
+
+1A. 2
+2A. A series of steps that define how to solve a task.
